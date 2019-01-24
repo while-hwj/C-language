@@ -1,2 +1,2 @@
-# my-test
-第一次测试使用
+# C language
+C 语言相关整理
